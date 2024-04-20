@@ -8,7 +8,7 @@
 - Emma Chen (Carnegie Mellon University)
 - Favour Adesoye (Virginia State Univerisity)
 
-## Mission:
+## Mission
 Through creative skills-based education, collaborative leadership development, and holistic well-being, Ordinarie Heroes (OH) mission is to empower young people from historically marginalized communities. This Philadelphia-based nonprofit provides a variety of youth-oriented services to the community, including college tours and after school programming. OH also operates a mobile food truck, addressing food insecurity in the community with particular emphasis on families, youth, and the elderly.
 
 
