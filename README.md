@@ -1,6 +1,6 @@
 # Team-8
 
-# Data for Good
+# Data for Good Hackathon by JPMorgan Chase & Co.
 
 ## Group Members
 - Netra Nyaupane (Fisk University)
